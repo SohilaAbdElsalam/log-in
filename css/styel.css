@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(37, 10, 37);
+    color: #fff;
+}
+.cover{
+ box-shadow: 0 0 50px rgb(140, 83, 161);
+ padding: 50px;
+ margin-top: 20px;
+}
